@@ -6,7 +6,7 @@
 <div align="center">
 <div>
   <a href="https://www.codewars.com/users/behrens-de" title="codewars">
-    <img src="https://www.codewars.com/users/behrens-de/badges/large">
+    <img src="https://www.codewars.com/users/behrens-de/badges/small">
   </a>
 </div>
   
